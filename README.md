@@ -1,0 +1,2 @@
+# CryptoFare
+Crypto currency fair
